@@ -182,7 +182,10 @@ padding: 5px;
 #pl{
     font-size: 15px;
 }
-#deg,#des{
+#deg{
+    font-size: 15px;
+}
+#des{
     font-size: 10px;
 }
 
