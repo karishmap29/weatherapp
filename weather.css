@@ -73,23 +73,26 @@ h2{
 }
 @media((max-width:550px) and (min-width:350px)){
     h2{
-        font-size: 30px;
+        font-size: 25px;
     }
+    
 
 .container{
     max-width: 250px;
     font-size: 25px;
 }
 .place{
+    
     font-size: 30px;
 }
 #pl{
     font-size: 35px;
-}#deg{
-font-size: 30px;
+}
+#deg{
+font-size: 25px;
 }
 #des{
-font-size: 20px;
+font-size: 18px;
 }
 
 
