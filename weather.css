@@ -71,7 +71,7 @@ h2{
     border-radius: 30px;
     padding: 20px;
 }
-@media((max-width:760px) and (min-width:550px)){
+/* @media((max-width:760px) and (min-width:550px)){
     h2{
         font-size: 25px;
     }
@@ -116,9 +116,9 @@ padding:10px;
     height:45px ;
 }
 
-}
+} */
 
-@media((max-width:550px) and (min-width:350px)){
+@media((max-width:750px) and (min-width:350px)){
     h2{
         font-size: 20px;
     }
