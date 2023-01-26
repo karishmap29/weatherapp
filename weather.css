@@ -27,7 +27,7 @@ h2{
    
 }
 .place{
-    width: 35%;
+    /* width: 35%; */
     text-align: center;
     background-color: rgba(255, 255, 255, 0.2); 
     border-radius: 30px;
