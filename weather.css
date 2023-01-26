@@ -73,7 +73,7 @@ h2{
 }
 @media((max-width:550px) and (min-width:350px)){
     h2{
-        font-size: 25px;
+        font-size: 20px;
     }
     
 
@@ -83,16 +83,16 @@ h2{
 }
 .place{
     
-    font-size: 30px;
+    font-size: 20px;
 }
 #pl{
-    font-size: 35px;
+    font-size: 20px;
 }
 #deg{
-font-size: 25px;
+font-size: 20px;
 }
 #des{
-font-size: 18px;
+font-size: 15px;
 }
 
 
