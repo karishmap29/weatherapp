@@ -168,7 +168,7 @@ padding: 5px;
 
 @media(max-width:650px){
     h2{
-        font-size: 15px;
+        font-size: 25px;
     }
 
 .container{
@@ -176,7 +176,7 @@ padding: 5px;
     font-size: 10px;
 }
 .place{
-    font-size: 10px;
+    /* font-size: 15px; */
     padding: 10px;
 }
 #pl{
