@@ -83,25 +83,25 @@ h2{
 }
 .place{
     
-    font-size: 25px;
+    font-size: 15px;
 }
 #pl{
-    font-size: 20px;
+    font-size: 17px;
 }
 #deg{
-font-size: 20px;
+font-size: 15px;
 }
 #des{
-font-size: 15px;
+font-size: 12px;
 }
 
 
 .details{
-    font-size: 20px;
+    font-size :15px; 
 
 }
 #i1{
-    height:45px;
+    height:35px;
 }
 #i2{
     height:40px;
