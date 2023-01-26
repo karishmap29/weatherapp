@@ -71,6 +71,53 @@ h2{
     border-radius: 30px;
     padding: 20px;
 }
+@media((max-width:760px) and (min-width:550px)){
+    h2{
+        font-size: 25px;
+    }
+    
+
+.container{
+    max-width: 270px;
+    font-size: 30px;
+}
+.place{
+    
+    font-size: 25px;
+}
+#pl{
+    font-size: 20px;
+}
+#deg{
+font-size: 20px;
+}
+#des{
+font-size: 15px;
+}
+
+
+.details{
+    font-size: 20px;
+
+}
+#i1{
+    height:45px;
+}
+#i2{
+    height:40px;
+}
+#i3{
+    height:30px;
+}
+#i4{
+    height:35px;
+}
+#degimg{
+    height:45px ;
+}
+
+}
+
 @media((max-width:550px) and (min-width:350px)){
     h2{
         font-size: 20px;
